@@ -1,0 +1,19 @@
+#head{
+	color: lightblue;
+}
+#smallhead{
+	color: green;
+}
+#say{
+	position: fixed;
+}
+.img-circle{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+#pic{
+	position: absolute;
+	border-top: 50px;
+}
+
